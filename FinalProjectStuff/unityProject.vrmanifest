@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.finalprojectstuff.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\daveyj\\Desktop\\Bird-and-Sound-Stuff\\FinalProjectStuff\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "FinalProjectStuff [Testing]"
+        }
+      }
+    }
+  ]
+}
